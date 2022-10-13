@@ -1,0 +1,45 @@
+/Users/andrey/Projects/calculator/calculator/bin/Debug/net6.0/calculator
+/Users/andrey/Projects/calculator/calculator/bin/Debug/net6.0/calculator.deps.json
+/Users/andrey/Projects/calculator/calculator/bin/Debug/net6.0/calculator.runtimeconfig.json
+/Users/andrey/Projects/calculator/calculator/bin/Debug/net6.0/calculator.dll
+/Users/andrey/Projects/calculator/calculator/bin/Debug/net6.0/calculator.pdb
+/Users/andrey/Projects/calculator/calculator/obj/Debug/net6.0/calculator.csproj.AssemblyReference.cache
+/Users/andrey/Projects/calculator/calculator/obj/Debug/net6.0/calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrey/Projects/calculator/calculator/obj/Debug/net6.0/calculator.AssemblyInfoInputs.cache
+/Users/andrey/Projects/calculator/calculator/obj/Debug/net6.0/calculator.AssemblyInfo.cs
+/Users/andrey/Projects/calculator/calculator/obj/Debug/net6.0/calculator.csproj.CoreCompileInputs.cache
+/Users/andrey/Projects/calculator/calculator/obj/Debug/net6.0/calculator.dll
+/Users/andrey/Projects/calculator/calculator/obj/Debug/net6.0/refint/calculator.dll
+/Users/andrey/Projects/calculator/calculator/obj/Debug/net6.0/calculator.pdb
+/Users/andrey/Projects/calculator/calculator/obj/Debug/net6.0/calculator.genruntimeconfig.cache
+/Users/andrey/Projects/calculator/calculator/obj/Debug/net6.0/ref/calculator.dll
+/Users/albertselev/Downloads/calculator 2/calculator/obj/Debug/net6.0/calculator.csproj.AssemblyReference.cache
+/Users/albertselev/Downloads/calculator 2/calculator/obj/Debug/net6.0/calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/albertselev/Downloads/calculator 2/calculator/obj/Debug/net6.0/calculator.AssemblyInfoInputs.cache
+/Users/albertselev/Downloads/calculator 2/calculator/obj/Debug/net6.0/calculator.AssemblyInfo.cs
+/Users/albertselev/Downloads/calculator 2/calculator/obj/Debug/net6.0/calculator.csproj.CoreCompileInputs.cache
+/Users/albertselev/Downloads/calculator 2/calculator/obj/Debug/net6.0/calculator.dll
+/Users/albertselev/Downloads/calculator 2/calculator/obj/Debug/net6.0/refint/calculator.dll
+/Users/albertselev/Downloads/calculator 2/calculator/obj/Debug/net6.0/calculator.pdb
+/Users/albertselev/Downloads/calculator 2/calculator/bin/Debug/net6.0/calculator
+/Users/albertselev/Downloads/calculator 2/calculator/bin/Debug/net6.0/calculator.deps.json
+/Users/albertselev/Downloads/calculator 2/calculator/bin/Debug/net6.0/calculator.runtimeconfig.json
+/Users/albertselev/Downloads/calculator 2/calculator/bin/Debug/net6.0/calculator.dll
+/Users/albertselev/Downloads/calculator 2/calculator/bin/Debug/net6.0/calculator.pdb
+/Users/albertselev/Downloads/calculator 2/calculator/obj/Debug/net6.0/calculator.genruntimeconfig.cache
+/Users/albertselev/Downloads/calculator 2/calculator/obj/Debug/net6.0/ref/calculator.dll
+/Users/albertselev/Documents/GitHub/practical-1/the game/bin/Debug/net6.0/calculator
+/Users/albertselev/Documents/GitHub/practical-1/the game/bin/Debug/net6.0/calculator.deps.json
+/Users/albertselev/Documents/GitHub/practical-1/the game/bin/Debug/net6.0/calculator.runtimeconfig.json
+/Users/albertselev/Documents/GitHub/practical-1/the game/bin/Debug/net6.0/calculator.dll
+/Users/albertselev/Documents/GitHub/practical-1/the game/bin/Debug/net6.0/calculator.pdb
+/Users/albertselev/Documents/GitHub/practical-1/the game/obj/Debug/net6.0/calculator.csproj.AssemblyReference.cache
+/Users/albertselev/Documents/GitHub/practical-1/the game/obj/Debug/net6.0/calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/albertselev/Documents/GitHub/practical-1/the game/obj/Debug/net6.0/calculator.AssemblyInfoInputs.cache
+/Users/albertselev/Documents/GitHub/practical-1/the game/obj/Debug/net6.0/calculator.AssemblyInfo.cs
+/Users/albertselev/Documents/GitHub/practical-1/the game/obj/Debug/net6.0/calculator.csproj.CoreCompileInputs.cache
+/Users/albertselev/Documents/GitHub/practical-1/the game/obj/Debug/net6.0/calculator.dll
+/Users/albertselev/Documents/GitHub/practical-1/the game/obj/Debug/net6.0/refint/calculator.dll
+/Users/albertselev/Documents/GitHub/practical-1/the game/obj/Debug/net6.0/calculator.pdb
+/Users/albertselev/Documents/GitHub/practical-1/the game/obj/Debug/net6.0/calculator.genruntimeconfig.cache
+/Users/albertselev/Documents/GitHub/practical-1/the game/obj/Debug/net6.0/ref/calculator.dll
