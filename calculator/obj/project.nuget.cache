@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cBHrcWPKsVr3SdS4it00adNFkBKo2Qc8L7P2mwOkyh4ZPXBjHMsNTQhk6PLT5+dwiGJXapUt6OaBfdgFRvW/JQ==",
+  "dgSpecHash": "ZEttehCT/xpg4XDSdkVq6iWW7hnGm+ZnaLRu08jOVvGTK8IHoty3GaW0J78XF4wU9J1lEPdt79YEflSJkutM/Q==",
   "success": true,
-  "projectFilePath": "/Users/albertselev/Downloads/calculator/calculator/calculator.csproj",
+  "projectFilePath": "/Users/albertselev/Documents/GitHub/practical-1/calculator/calculator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
