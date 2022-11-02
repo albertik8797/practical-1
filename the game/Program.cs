@@ -170,20 +170,20 @@ namespace ConsoleApp1
             note[0].title = "Дела";
             note[0].descriptions = "Погулять с собакой";
 
-            note[1].date = Convert.ToDateTime("10.11.2022");
+            note[1].date = Convert.ToDateTime("15.11.2022");
             note[1].title = "Кот";
             note[1].descriptions = "День рождение кота";
 
-            note[2].date = Convert.ToDateTime("9.11.2022");
+            note[2].date = Convert.ToDateTime("15.11.2022");
             note[2].title = "Почта";
             note[2].descriptions = "Забрать посылку";
 
-            note[3].date = Convert.ToDateTime("8.11.2022");
+            note[3].date = Convert.ToDateTime("22.11.2022");
             note[3].title = "Лес";
             note[3].descriptions = "Прогулка с друзьями";
 
 
-            note[4].date = Convert.ToDateTime("7.11.2022");
+            note[4].date = Convert.ToDateTime("22.11.2022");
             note[4].title = "Курсовая работа";
             note[4].descriptions = "Начать делать курсовую работу";
             printmenu();
